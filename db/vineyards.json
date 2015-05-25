@@ -1,0 +1,38 @@
+[
+  {
+    "_id" : {"$oid": "555fc3d57220bd54c2b2ed92"},
+    "name" : "Alcantara Vineyard and Winery",
+    "region" : "verde valley",
+    "street" : "3445 S Grapevine Way",
+    "city" : "Cottonwood",
+    "state" : "Arizona",
+    "zip" : 86326,
+    "phone" : "9286498463",
+    "createdAt" : "2015-05-23T00:03:33.300Z",
+    "__v" : 0
+},
+{
+    "_id" : {"$oid": "555fc5207220bd54c2b2ed93"},
+    "name" : "Caduceus Cellars",
+    "region" : "verde valley",
+    "street" : "158 Main Street",
+    "city" : "Jerome",
+    "state" : "Arizona",
+    "zip" : 86331,
+    "phone" : "9286399463",
+    "createdAt" : "2015-05-23T00:09:04.788Z",
+    "__v" : 0
+},
+{
+    "_id" : {"$oid": "555fc5737220bd54c2b2ed94"},
+    "name" : "Arizona Stronghold",
+    "region" : "verde valley",
+    "street" : "1023 N Main Street",
+    "city" : "Cottonwood",
+    "state" : "Arizona",
+    "zip" : 86326,
+    "phone" : "9266392789",
+    "createdAt" : "2015-05-23T00:10:27.982Z",
+    "__v" : 0
+}
+]

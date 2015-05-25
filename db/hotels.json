@@ -1,0 +1,35 @@
+[
+  {
+    "_id" : {"$oid": "555fc6b37220bd54c2b2ed95"},
+    "name" : "Desert Rose Bed and Breakfast",
+    "street" : "4190 E Bridle Path Road",
+    "city" : "Cottonwood",
+    "state" : "Arizona",
+    "zip" : 86326,
+    "phone" : "9286460236",
+    "createdAt" : "2015-05-23T00:15:47.167Z",
+    "__v" : 0
+},
+{
+    "_id" : {"$oid": "555fc7fe7220bd54c2b2ed96"},
+    "name" : "Flying Eagle Bed and Breakfast",
+    "street" : "2700 Windmill Lane",
+    "city" : "Clarkdale",
+    "state" : "Arizona",
+    "zip" : 86324,
+    "phone" : "9286340663",
+    "createdAt" : "2015-05-23T00:21:18.059Z",
+    "__v" : 0
+},
+{
+    "_id" : {"$oid": "555fc86a7220bd54c2b2ed97"},
+    "name" : "The Vineyards Bed and Breakfast",
+    "street" : "1350 N Page Springs Road",
+    "city" : "Page Springs",
+    "state" : "Arizona",
+    "zip" : 86325,
+    "phone" : "9283004313",
+    "createdAt" : "2015-05-23T00:23:06.753Z",
+    "__v" : 0
+}
+]

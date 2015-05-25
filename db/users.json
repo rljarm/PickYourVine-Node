@@ -1,0 +1,26 @@
+[
+  {
+    "_id" : {"$oid": "555fbe9d7220bd54c2b2ed8e"},
+    "firebaseId" : "simplelogin:4",
+    "createdAt" : "2015-05-22T23:41:17.005Z",
+    "__v" : 0
+},
+{
+    "_id" : {"$oid": "555fc3037220bd54c2b2ed8f"},
+    "firebaseId" : "simplelogin:15",
+    "createdAt" : "2015-05-23T00:00:03.744Z",
+    "__v" : 0
+},
+{
+    "_id" : {"$oid": "555fc3197220bd54c2b2ed90"},
+    "firebaseId" : "simplelogin:13",
+    "createdAt" : "2015-05-23T00:00:25.175Z",
+    "__v" : 0
+},
+{
+    "_id" : {"$oid": "555fc3487220bd54c2b2ed91"},
+    "firebaseId" : "simplelogin:11",
+    "createdAt" : "2015-05-23T00:01:12.667Z",
+    "__v" : 0
+}
+]
